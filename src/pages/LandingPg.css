@@ -1,0 +1,25 @@
+.img-stl{
+    width: 100%;
+    object-fit: fill;
+
+   
+    
+}
+
+.btn-stl{
+    color: aliceblue;
+    background-color: rgb(35, 35, 57);
+    border-radius: 15px;
+    border: none;
+    width: 160px;
+    height: 30px;
+}
+
+.caption-stl{
+    color: rgb(17, 17, 28);
+}
+
+.btn-stl:hover{
+    background-color:aliceblue ;
+    color: rgb(35, 35, 57);
+}
